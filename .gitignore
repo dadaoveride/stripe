@@ -1,0 +1,9 @@
+#File Types To Ignore
+
+#Files To Ignore
+
+#Directories To Ignore
+
+secrets/
+
+#Misc
